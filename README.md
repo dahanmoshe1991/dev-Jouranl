@@ -1,0 +1,2 @@
+# dev-Jouranl
+self notes
