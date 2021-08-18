@@ -1,7 +1,10 @@
 self Notes of different topics
 
+## JS
+let/const vs var:
+  var has a function scope while let/const has block scope
 
-c vs C++:
+## c vs C++:
 malloc() vs new(): 
 
 - malloc(): It is a C library function that can also be used in C++, while the “new” operator is specific for C++ only. 
